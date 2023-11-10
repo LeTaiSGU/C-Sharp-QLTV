@@ -1,0 +1,9 @@
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DAO\obj\Debug\DAO.pdb
