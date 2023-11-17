@@ -15,6 +15,17 @@ namespace GUI
         public GUI_DocGia()
         {
             InitializeComponent();
+            this.Size = new Size(1347, 823);
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

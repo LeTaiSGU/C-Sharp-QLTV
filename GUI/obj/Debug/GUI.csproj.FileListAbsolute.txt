@@ -28,3 +28,5 @@ C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_Ta
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_TheLoai.resources
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_TraSach.resources
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_NCC.resources
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.ThemTuaSach.resources
+C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.Quanlysach.resources
