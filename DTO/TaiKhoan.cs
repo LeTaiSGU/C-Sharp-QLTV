@@ -19,7 +19,7 @@ namespace DTO
         {
 
         }
-        public TaiKhoan(string tenDangNhap, string matKhau, string maQuyen,Boolean trangThai)
+        public TaiKhoan(string tenDangNhap, string matKhau, string maQuyen,bool trangThai)
         {
             TenDangNhap = tenDangNhap;
             MatKhau = matKhau;
