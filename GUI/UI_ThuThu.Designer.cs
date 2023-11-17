@@ -507,6 +507,7 @@ namespace GUI
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1632, 913);
+            this.ControlBox = false;
             this.Controls.Add(this.panelDesktop);
             this.Controls.Add(this.panelShadow);
             this.Controls.Add(this.panel1);
@@ -514,7 +515,6 @@ namespace GUI
             this.MinimumSize = new System.Drawing.Size(1350, 840);
             this.Name = "UI_ThuThu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "UI_ThuThu";
             this.Load += new System.EventHandler(this.UI_ThuThu_Load);
             this.panelControl.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
