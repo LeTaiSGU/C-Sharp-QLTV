@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace GUI
 {
-    public partial class GUI_PhanQuyen : Form
+    public partial class Form2 : Form
     {
-        public GUI_PhanQuyen()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void iconButton2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
