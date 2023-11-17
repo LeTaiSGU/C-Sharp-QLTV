@@ -10,9 +10,23 @@ namespace DTO
 
     public class TaiKhoan
     {
-        private string MaTaiKhoan { get; set; }
-        private string TenDangNhap { get; set; }
-        private string Pass { get; set; }
-        private string Ten {  get; set; }   
+        private string TenDangNhap;
+        private string MatKhau;
+        private string MaQuyen;
+
+        public TaiKhoan()
+        {
+
+        }
+        public TaiKhoan(string tenDangNhap, string matKhau, string maQuyen)
+        {
+            TenDangNhap = tenDangNhap;
+            MatKhau = matKhau;
+            MaQuyen = maQuyen;
+        }
+
+        public string SGTenDangNhap { get => TenDangNhap; set => TenDangNhap = value; }
+        public string SGMatKhau { get => MatKhau; set => MatKhau = value; }
+        public string SGMaQuyen { get => MaQuyen; set => MaQuyen = value; }
     }
 }
