@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BUS",
+    "\\GUI",
+    "\\GUI\\bin",
+    "\\GUI\\obj",
+    "\\GUI\\Properties",
+    "\\GUI\\Resources",
+    "\\Image",
+    "\\packages"
+  ],
+  "SelectedNode": "\\GUI\\GUI_NCC.cs",
+  "PreviewInSolutionExplorer": false
+}
