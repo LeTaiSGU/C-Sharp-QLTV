@@ -16,3 +16,4 @@ C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\DAO\obj\Debug\DA
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\DAO\obj\Debug\DAO.dll
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\DAO\obj\Debug\DAO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\source\repos\C-Sharp-QLTV\DAO\obj\Debug\DAO.csproj.ResolveComReference.cache

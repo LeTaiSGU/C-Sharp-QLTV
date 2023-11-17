@@ -16,5 +16,10 @@ namespace GUI
         {
             InitializeComponent();
         }
+
+        private void GUI_DocGia_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

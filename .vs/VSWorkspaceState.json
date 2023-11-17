@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DAO",
+    "\\DTO",
     "\\GUI"
   ],
-  "SelectedNode": "\\GUI\\thongTinChiTiet.cs",
+  "SelectedNode": "\\GUI\\GUI_TacGia.cs",
   "PreviewInSolutionExplorer": false
 }

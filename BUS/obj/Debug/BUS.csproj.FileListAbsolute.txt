@@ -20,3 +20,4 @@ C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\BUS\obj\Debug\BU
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\BUS\obj\Debug\BUS.dll
 C:\Users\defaultuser0.LAPTOP-POTNR7PE\Source\Repos\C-Sharp-QLTV\BUS\obj\Debug\BUS.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\source\repos\C-Sharp-QLTV\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
