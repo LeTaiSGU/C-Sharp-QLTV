@@ -4,3 +4,15 @@ C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DTO\bin\Debug\DTO.dll
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DTO\bin\Debug\DTO.pdb
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DTO\obj\Debug\DTO.dll
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\C-Sharp-QLTV\DTO\obj\Debug\DTO.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\bin\Debug\DTO.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\bin\Debug\DTO.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\obj\Debug\DTO.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\DTO\obj\Debug\DTO.pdb

@@ -28,6 +28,7 @@ C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_Ta
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_TheLoai.resources
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_TraSach.resources
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\GUI\obj\Debug\GUI.GUI_NCC.resources
+<<<<<<< HEAD
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\bin\Debug\GUI.exe.config
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\bin\Debug\GUI.exe
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\bin\Debug\GUI.pdb
@@ -58,3 +59,8 @@ C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.csproj.CoreCompileIn
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.csproj.CopyComplete
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.exe
 C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.pdb
+=======
+\
+>>>>>>> 5686c9d7a041126bf05b5a9addbf39247ecf8637
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.Quanlysach.resources
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\GUI\obj\Debug\GUI.ThemTuaSach.resources
