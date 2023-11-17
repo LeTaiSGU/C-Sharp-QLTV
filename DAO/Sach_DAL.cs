@@ -8,6 +8,6 @@ namespace DAO
 {
     internal class Sach_DAL
     {
-
+        
     }
 }
