@@ -9,3 +9,14 @@ C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\BUS\bin\Debug\DTO.pdb
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\BUS\obj\Debug\BUS.dll
 C:\Users\letan\source\repos\QuanLyThuVien\QuanLyThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\BUS.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\BUS.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\DAO.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\DTO.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\DAO.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\bin\Debug\DTO.pdb
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\obj\Debug\BUS.dll
+C:\Users\HDTC\source\repos\C-Sharp-QLTV02\BUS\obj\Debug\BUS.pdb
